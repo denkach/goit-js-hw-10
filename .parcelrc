@@ -7,6 +7,6 @@
     "parcel-reporter-clean-dist"
   ],
   "resolvers": [
-    "@parcel/resolver-glob", "..."
+    "..."
   ]
 }
